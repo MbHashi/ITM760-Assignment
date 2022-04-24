@@ -16,3 +16,26 @@ Worked with the 'Online News Popularity' dataset and the goal was to predict the
 Attached is my .ipynb extension and conversion into pdf.
 
 This project was submitted on April 2022.
+
+
+# ITM740_Assignments
+Data science assignments using Python.
+
+**First Assignment:** A 'LoanTrain' dataset was used and the goal was to load the data, clean it, and find the best 3 features that compliment the target feature.
+
+The assignment was submitted on February 2022.
+
+
+**Second Assignment:** A 'loanTrain' dataset was again used with the goal of constructing classification models; these models being the Logistic Regression, Decision Tree, and Random Forest models.
+
+This assignment was submitted on March 2022.
+
+
+
+# ITM740-GroupProject
+
+Data science group project using Python.
+
+A 'Heart Disease' dataset was used and the goal was to predict whether the patient suffers from heart disease.
+
+The group project was submitted on April 2022.
